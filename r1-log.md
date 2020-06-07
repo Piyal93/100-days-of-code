@@ -1,10 +1,2 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
-
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
-
-## Log
-
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+## Starting #100DaysOfCode
+Piyal here, looking to start this challenge from tomorrow **Jun 8, Monday, 2020.** Today is June 7th. I just saw someone in LinkedIn that there is a challenge called **100DaysCode**. I'm originally from Bangladesh, but I'm living in Bremen,Germany, doing my masters in University of Bremen. My main motivation is my girlfriend,Priyanka. I decided to learn to code when I saw a post on facebook that there is one guy who have almost finished his 1.8 years of job finding visa and if he cant find a job in next 1 month he will be send back to his country. I cant imagine myself in that situation. Now I'm looking to get more serious with my time so I'm commiting to this challenge. I already aim to spend 90 minutes a day doing coding tutorials, but I've decided to commit to an hour a day of hands on coding with this challenge. I'm not sure if I will be able to stick to my commitments, but I'm going to attempt the challenge anyways. I may still aim to just do 90 minutes a day, but use 60 minutes of that just for hands on coding and 30 minutes for tutorials. Ok, be back on Jun 7th!
